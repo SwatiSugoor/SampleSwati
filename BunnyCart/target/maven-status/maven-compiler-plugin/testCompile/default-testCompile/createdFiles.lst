@@ -1,0 +1,10 @@
+com\bunnycart\stepdefinition\S4Addmultipleproducts.class
+com\bunnycart\TestRunner\S4AddProductsNG.class
+com\bunnycart\TestRunner\S3ValidInvalidSiginNG.class
+com\bunnycart\TestRunner\S5SignoutNG.class
+com\bunnycart\stepdefinition\S5Signout.class
+com\bunnycart\TestRunner\S1CreateNG.class
+com\bunnycart\TestRunner\S2SiginaddcartNG.class
+com\bunnycart\stepdefinition\S2SiginAddtocart.class
+com\bunnycart\stepdefinition\S1Createanaccount.class
+com\bunnycart\stepdefinition\S3SigninValidInvalid.class
